@@ -11,7 +11,6 @@ public class BeginnerSeries {
 
        return s+m+h;
 
-
     }
 
 }
