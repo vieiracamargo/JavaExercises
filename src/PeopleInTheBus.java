@@ -13,6 +13,8 @@ public class PeopleInTheBus {
 
     }
 
+
+
     public static int countPassengers(List<int[]>stops) {
         int in = 0;
         int out = 0;
